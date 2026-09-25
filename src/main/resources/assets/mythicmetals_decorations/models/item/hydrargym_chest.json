@@ -1,7 +1,7 @@
 {
   "parent": "builtin/entity",
   "textures": {
-    "particle": "mythicmetals:block/hydrargym_block"
+    "particle": "mythicmetals_decorations:block/hydrargym_block"
   },
   "display": {
     "gui": {
